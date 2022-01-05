@@ -22,7 +22,7 @@ The application does not process any transactions. User can mark the status of t
 I think the app has many small features that may not be immediately noticeable, but greatly improve usability. When creating the app, I really took into account the usability of the app and kept testing it along whole process.
 
 ## Pictures
-![](https://i.ibb.co/cbyLNX7/1.png)
+![](https://i.ibb.co/cbyLNX7/1.png)<br>
 Login page
 
 <img src="https://i.ibb.co/n357why/2.png" alt="2" border="0"><br>
